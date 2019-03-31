@@ -12,6 +12,11 @@
         "url": "https://github.com/debo07/react-ellipsis-tooltip"
     },
     "homepage": "https://github.com/debo07/react-ellipsis-tooltip",
+    "keywords": [
+        "ellipsis",
+        "tooltip",
+        "react-ellipsis-tooltip"
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "webpack --watch",
