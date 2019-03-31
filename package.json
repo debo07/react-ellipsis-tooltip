@@ -28,7 +28,6 @@
         "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0",
-        "reactstrap": "^7.1.0",
         "style-loader": "^0.23.1",
         "webpack": "^4.5.0",
         "webpack-cli": "^3.2.1"
