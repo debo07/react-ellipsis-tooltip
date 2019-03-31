@@ -1,0 +1,25 @@
+.ellipsis-text {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.ellipsis-text-overflow {
+    text-overflow: ellipsis;
+}
+
+.multiline-ellipsis-text {
+    overflow: hidden;
+    position: relative;
+    word-wrap: break-word;
+    text-align: justify;
+    /* margin-right: -1em; */
+    padding-right: 1em;
+}
+
+.pseudo-ellipsis-element::before {
+    content: '...';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
