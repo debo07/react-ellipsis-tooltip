@@ -4,6 +4,14 @@
     "description": "Shows ellipsis and tooltip as per available space, supports single and multiline ellipsis",
     "main": "build/index.js",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/debo07/react-ellipsis-tooltip.git"
+    },
+    "bugs": {
+        "url": "https://github.com/debo07/react-ellipsis-tooltip"
+    },
+    "homepage": "https://github.com/debo07/react-ellipsis-tooltip",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "webpack --watch",
@@ -32,8 +40,5 @@
         "webpack": "^4.5.0",
         "webpack-cli": "^3.2.1"
     },
-    "author": {
-        "name": "Debajit Majumder",
-        "email": "debajit.business@gmail.com"
-    }
+    "author": "debo07"
 }

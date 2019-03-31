@@ -46,4 +46,4 @@ You can specify `isMultilineEllipsis`, `lineCount` and `lineHeight` to acheieve 
 
 ## Roadmap
 
-- Provision to provide you custom tooltip component to show the tooltip
+- Provision to specify custom tooltip component to show the tooltip
